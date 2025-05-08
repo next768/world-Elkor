@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>Якщо вибрав піти скуплятись у чарівний магазинчик у світі Ельмор</title>
+    <link href="style.css6" rel="stylesheet">
+   </head>
+  <body>
+    <h1 class="start">Якщо вибрав піти скуплятись у чарівний магазинчик </h1>
+    <main>
+      <p>ви пішли скоріше скуплятися у чарівний магазинчик щоб купити зілья та чарівну паличку</p>
+      <img width="500px"src="">
+       <p>ви скупилися та пішли до дракона </p>
+      <img width="500px"src="https://learn.logikaschool.com/uploads/student/4813582/681ba32893937.png">
+      <p>коли ви вже почали підходити ви побачили дракона та почали битву </p>
+      <img width="500px"src="https://learn.logikaschool.com/uploads/student/4813582/681d0902385fc.png">
+<h1 class="win">Ви вбили драко та спасли Лартину You win</h1>
+    </main>
+  </body>
+</html>
