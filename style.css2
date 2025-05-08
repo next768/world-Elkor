@@ -1,0 +1,29 @@
+.start{
+  text-align:center;
+  color:#eece6a
+}
+body{
+ background-image: linear-gradient(darkgreen,#143e05)
+}
+div{
+  display:flex;
+  justify-content:space-between
+}
+a{
+   text-decoration:none;
+   border:2px solid lightgreen;
+  height:23px;
+  padding:6px;
+  border-radius:30px;
+    background-color:lightgreen;
+  color:grey;
+}
+main{
+  color:white;
+  text-align:center
+}a:hover{
+    box-shadow:0 0 5px 0 lightpink;
+  background-color:lightpink;
+    color:white;
+  border:3px solid pink
+}
