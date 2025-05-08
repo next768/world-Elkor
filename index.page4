@@ -1,10 +1,10 @@
 <html>
   <head>
     <title>якщо пішов на ліво у світі Ельмор</title>
+    <link href="style.css4" rel="stylesheet">
    </head>
   <body>
     <h1 class="start">Продовження якщо пійшов на ліво</h1>
-    <link href="style.css4" rel="stylesheet">
     <main>
       <p>Ви пішли по стежці на ліво та побачили фортецю</p>
       <img width="500px"src="https://learn.logikaschool.com/uploads/student/4813582/681b99970aa18.png">
