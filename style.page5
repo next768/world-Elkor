@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>Якщо вибрав піти скуплятись у кузню у світі Ельмор</title>
+        <link href="style.css5" rel="stylesheet">
+   </head>
+  <body>
+    <h1 class="start">Якщо вибрав піти скуплятись у кузню</h1>
+    <main>
+      <p>ви пішли скоріше скуплятися у кузню щоб купити обладунки та меч</p>
+      <img width="500px"src="https://learn.logikaschool.com/uploads/student/4813582/681b9c995d9b3.png">
+       <p>ви скупилися та пішли до дракона </p>
+      <img width="500px"src="https://learn.logikaschool.com/uploads/student/4813582/681ba32893937.png">
+      <p>але ви не змогли навіт дойти до нього та він вас вбив</p>
+<h1 class="gameover">Game over вас вбив водний дракон</h1>
+    </main>
+  </body>
+</html>
