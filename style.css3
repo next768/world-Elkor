@@ -1,0 +1,20 @@
+body{
+ background-image: linear-gradient(darkgreen,#143e05)
+}
+.start{
+  text-align:center;
+  color:#eece6a
+}
+.gameover{
+ text-align:center;
+  color:red;
+    background-color:darkred;
+      width:450px;
+        margin-left:320px;
+  border:2px solid red;
+  border-radius:20px
+}
+main{
+  color:white;
+  text-align:center
+}
