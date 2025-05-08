@@ -1,0 +1,26 @@
+body{
+ background-image: linear-gradient(#06cbf9,#03667d)
+}
+.start{
+  text-align:center;
+  color:#eece6a
+}
+.win{
+ text-align:center;
+  color:lightgreen;
+    background-color:darkgreen;
+      width:550px;
+        margin-left:270px;
+  border:3px solid lightgreen;
+  border-radius:20px
+}
+.win:hover{
+    box-shadow:1px 1px 5px 0 lightgreen;
+  background-color:green;
+    color:#37ff65;
+  border:3px solid lightgreen;
+}
+main{
+  color:white;
+  text-align:center
+}
