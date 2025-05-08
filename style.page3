@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <title>якщо пішов на право у світі Ельмор</title>
+    <link href="style.css3" rel="stylesheet">
+   </head>
+  <body>
+    <h1 class="start">Продовження якщо пійшов на право</h1>
+    <main>
+      <p>Ви пішли на право та ви побачили знак з надписом обережно вовки </p>
+      <img width="500px"src="https://learn.logikaschool.com/uploads/student/4813582/681a63ae994bf.png">
+      <p>вас це не зупинило та ви пішли далі та почюли ричаня вовків та тут з'явилася ціла стая</p>
+      <img width="500px" src="https://learn.logikaschool.com/uploads/student/4813582/681a631d13329.png">
+      <h1 class="gameover">Game over вас з'їли вовки</h1>
+    </main>
+  </body>
+</html>
