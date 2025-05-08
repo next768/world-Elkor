@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title>якщо пішов на ліво у світі Ельмор</title>
+   </head>
+  <body>
+    <h1 class="start">Продовження якщо пійшов на ліво</h1>
+    <link href="style.css4" rel="stylesheet">
+    <main>
+      <p>Ви пішли по стежці на ліво та побачили фортецю</p>
+      <img width="500px"src="https://learn.logikaschool.com/uploads/student/4813582/681b99970aa18.png">
+      <p>Ви підішли до неї та побачили двух лицарей ви їм розповіли сво. історію та вони вас пропустили у місто Лартина </p>
+      <img width="500px" src="https://learn.logikaschool.com/uploads/student/4813582/681b999b74110.png">
+      <p>коли ви зайшли до міста Лартина та побачили гнома він придставився та сказав що він ваш друг Лорензо якого ви забули 
+  він росповів що це місто нейтральний для всіх рас такі як ельфи,гноми,люди та звіролюди.Потім Лорензо сказав що допоможе все заново закупитися бо старе обладнання зруйнувалося</p>
+      <img width="500px" src="https://learn.logikaschool.com/uploads/student/4813582/681b9e78e47cf.png">
+      <p>Спершу ви пішли до кузні</p>
+      <img width="500px" src="https://learn.logikaschool.com/uploads/student/4813582/681b9c995d9b3.png">
+      <p>потім до магічного магазинчику де можна купити зілья та чарівні палочки</p>
+      <img width="500px" src="https://learn.logikaschool.com/uploads/student/4813582/681b9dc5ccc1e.png">
+      <p>Коли ви вже все подивилися Лорензо сказав що в вас припущення до магії вогня ,потім ви пішли гуляти по місту та побачили постер</p>
+      <img width="500px" src="https://learn.logikaschool.com/uploads/student/4813582/681b9fe0aa233.png">
+      <p>Що приблежаеться водяний дракон та треба допомога з обороною та через 5 годин він вже буде у Лартині</p>
+      <div>
+        <a href="https://codepen.io/plgeopce-the-looper/pen/OPPwMWM?editors=1000">піти скуплятися у кузню</a>
+        <a href="">піти скуплятися у магазин чарівних штучок</a>
+      </div>
+    </main>
+  </body>
+</html>
