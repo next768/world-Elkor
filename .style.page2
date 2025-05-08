@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title>Початок історіі про Ельмор</title>
+        <link href="style.css2" rel="stylesheet">
+   </head>
+  <body>
+    <h1 class="start">Початок історії</h1>
+    <main>
+     <p>Ви прокинулись у лісі та ви нічого не пом'ятаєте</p>
+      <img  width="450px"src="https://learn.logikaschool.com/uploads/student/4813582/681a53edba04c.png">
+      <p>Ви пішли по стежці та на вас напав одинокий вовк</p>
+      <img width="450px "src="https://learn.logikaschool.com/uploads/student/4813582/681a572f9d151.jpg">
+      <p>Ви побачили у своїй сумці чарівну паличку та вона засвітилася та створила шар з вогня та вовк втік,потім ви пішли далі по потрапили на роздоріжжя</p>
+      <div>
+        <a href="">пійти наліво </a>
+     <img  width="600px" src="https://learn.logikaschool.com/uploads/student/4813582/681a5706ad663.png">
+        <a href="https://codepen.io/plgeopce-the-looper/pen/xbbzqPe">пійти на право</a>
+        <div>
+    </main>
+  </body>
+</html>
